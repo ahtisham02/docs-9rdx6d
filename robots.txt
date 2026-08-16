@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-wuhqz9.assetshst.online/sitemap.xml
